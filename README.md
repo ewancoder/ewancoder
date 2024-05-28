@@ -6,4 +6,4 @@
 
 [Software Development](https://github.com/ewancoder)
 
-[Simracing](https://www.youtube.com/channel/UCQzd85vUhiVJ_5TJ0JcvCLw)
+[Simracing](https://www.youtube.com/@ewancoder/streams)
